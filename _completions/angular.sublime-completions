@@ -1,0 +1,10 @@
+{
+	"scope":"source.js, source.js.embedded.html",
+
+	"completions":[
+
+		{ "trigger": "sco", "contents": "\$scope" },
+        { "trigger": "sfn", "contents": "\$scope.$1 = function() {\n\n};" }
+
+	]
+}

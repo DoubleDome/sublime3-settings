@@ -1,0 +1,20 @@
+{
+	"scope":"source.js, source.js.embedded.html",
+
+	"completions":[
+
+		{ "trigger": "vs", "contents": "var self = this;" },
+        { "trigger": "cl", "contents": "console.log($0);" },
+        { "trigger": "mc", "contents": "// AT: $0" },
+		{ "trigger": "rt", "contents": "return this;" },
+		{ "trigger": "if", "contents": "if ($1) {}" },
+		{ "trigger": "fn", "contents": "function() {$1}" },
+        { "trigger": "ov", "contents": "$1: $2," },
+        { "trigger": "rq", "contents": "require('$1');" },
+        { "trigger": "nv", "contents": "var $1 = $2;" },
+		{ "trigger": "vfn", "contents": "this.$1 = function() {\n\n};" },
+		{ "trigger": "ofn", "contents": "$1:function($2) {\n	$3\n}," },
+		{ "trigger": "ifiu", "contents": "if (typeof(${1}) === 'undefined') ${2}" },
+		{ "trigger": "ifnu", "contents": "if (typeof(${1}) !== 'undefined') ${2}" }
+	]
+}

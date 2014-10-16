@@ -1,0 +1,4 @@
+{
+    "cmd": ["gulp"],
+    "selector": "source.js"
+}

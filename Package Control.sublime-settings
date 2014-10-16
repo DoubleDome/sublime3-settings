@@ -1,0 +1,19 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"ColorPicker",
+		"EditorConfig",
+		"Emmet",
+		"GitGutter",
+		"Handlebars",
+		"HTMLBeautify",
+		"JsFormat",
+		"PlainTasks",
+		"Predawn",
+		"SassBeautify",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Theme - Soda"
+	]
+}

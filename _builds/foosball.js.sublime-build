@@ -1,0 +1,4 @@
+{
+    "cmd": ["node ./workarea/table/FoosballTable.js"],
+    "selector": "source.js"
+}

@@ -1,0 +1,8 @@
+{
+	"scope":"source.js, source.css, source.sass, source.less",
+
+	"completions":[
+		{ "trigger": "chm", "contents": "/* $0\n=================================================== */" },
+		{ "trigger": "chs", "contents": "/* $0\n--------------------------------------------------- */" }
+	]
+}
