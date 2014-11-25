@@ -5,6 +5,7 @@
 
 		{ "trigger": "vs", "contents": "var self = this;" },
         { "trigger": "cl", "contents": "console.log($0);" },
+        { "trigger": "cls", "contents": "console.log('@sapient:', $0);" },
         { "trigger": "mc", "contents": "// AT: $0" },
 		{ "trigger": "rt", "contents": "return this;" },
 		{ "trigger": "if", "contents": "if ($1) {}" },

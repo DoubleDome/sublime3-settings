@@ -3,8 +3,8 @@
 
 	"completions":[
 
-		{ "trigger": "sco", "contents": "\$scope" },
-        { "trigger": "sfn", "contents": "\$scope.$1 = function() {\n\n};" }
+		{ "trigger": "sc", "contents": "\\$scope.$1" },
+        { "trigger": "scfn", "contents": "\\$scope.$1 = function() {\n\n};" }
 
 	]
 }
