@@ -1,4 +1,9 @@
 {
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
 	"installed_packages":
 	[
 		"AdvancedNewFile",
@@ -13,6 +18,7 @@
 		"JsFormat",
 		"JSHint",
 		"JSHint Gutter",
+		"Package Control",
 		"PlainTasks",
 		"Predawn",
 		"SassBeautify",
